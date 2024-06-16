@@ -1,0 +1,18 @@
+.wrapper{
+  height: 100vh;
+  background-color: #ffffff;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.login-block{
+  width: 800px;
+  padding: 20px;
+  background-color: #bcc4cb;
+  border-radius: 30px;
+  box-shadow: 0 8px 10px 0 rgba(82, 82, 82, 0.2);
+}
+
+.error{
+  color: #d00b0b;
+}

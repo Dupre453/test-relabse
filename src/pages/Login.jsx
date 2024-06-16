@@ -30,7 +30,7 @@ const Login = () => {
             setIsLoading(true);
             await new Promise((resolve) => setTimeout(resolve, 2000));
             setIsLoading(false);
-            navigate('/');
+            navigate('/home');
         }
     };
 

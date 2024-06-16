@@ -6,7 +6,7 @@ const Card = () => {
     return (
         <div className='card-item'>
             <img className='cart-item__image' src="https://avatars.mds.yandex.net/get-mpic/4448884/img_id6715658556277742975.jpeg/600x800"
-                 alt="card-photo"
+                 alt=""
             />
             <div className='mt-2'>
                 <b className='mr-3 '>1250 ₽</b>
